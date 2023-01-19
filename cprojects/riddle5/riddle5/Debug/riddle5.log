@@ -1,0 +1,3 @@
+﻿  riddle5.cpp
+C:\assembly\cprojects\riddle5\riddle5\riddle5.cpp(7,22): warning C4101: 'result': unreferenced local variable
+  riddle5.vcxproj -> C:\assembly\cprojects\riddle5\Debug\riddle5.exe
